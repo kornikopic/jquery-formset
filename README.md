@@ -19,7 +19,8 @@ Initialize the script
         addButtonId: 'add-row',
         deleteButtonClassname: 'delete-row'
     });
-</script>```
+</script>
+```
 
 Create a template
 
